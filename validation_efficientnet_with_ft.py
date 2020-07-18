@@ -9,7 +9,6 @@ from efficientnet.model import ConvKernalInitializer
 from tensorflow.tools.api.generator.api.keras.utils import get_custom_objects
 
 
-
 get_custom_objects().update({
     'ConvKernalInitializer': ConvKernalInitializer,
     'Swish': Swish,
