@@ -1,5 +1,10 @@
 # EfficientNet_based_on_Transfer_Learning
 
+基于猫猫和狗狗的图像二分类。
+
+Image classification based on two categories of cats and dogs.
+
+
 第一部分
 EfficientNet网络模型的训练代码，基于迁移学习，分为“transfer learning”和“fine-tuning”两种模式，
 分别对应training_efficientnet_with_transfer_learning.py和training_efficientnet_with_fine_tuning.py两个代码文件。
