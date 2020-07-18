@@ -1,6 +1,6 @@
 # EfficientNet_based_on_Transfer_Learning
 
-基于猫猫和狗狗的图像二分类。
+🐱🐶基于猫猫和狗狗的图像二分类。
 
 Image classification based on two categories of cats and dogs.
 
