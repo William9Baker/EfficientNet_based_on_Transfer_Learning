@@ -44,8 +44,7 @@ def predict_image(img_path):
 
 
 # 载入模型
-# model = load_model('./output_model_file/my_model.h5')
-model = load_model('./output_model_file5/my_model_5.h5')
+model = load_model('./output_model_file5/my_model.h5')
 
 # img = Image.open('12499.jpg')
 # img_path = './12499.jpg'
